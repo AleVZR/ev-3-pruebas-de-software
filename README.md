@@ -4,7 +4,7 @@ Tests E2E for the auth-service frontend page
 
 # Memebers
 
-- Alejandro Valenzuela
+- Alejandro Valenzuela Riveros
 
 ## Run tests
 
